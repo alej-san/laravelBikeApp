@@ -36,7 +36,7 @@
                         </td>
                        
                             <td>
-                                <a href"{{ url('bike/' . 'destroy') }}">delete</a>
+                                <a href"{{ url('bike/' . '1') }}">delete</a>
                             </td>
                             <td>
                                 <a href="{{ url('bike/' . 1 . '/edit') }}">edit</a>
@@ -59,7 +59,7 @@
                         </td>
                        
                             <td>
-                                <a href"{{ url('bike/' . 'destroy') }}">delete</a>
+                                <a href"{{ url('bike/' . '2') }}">delete</a>
                             </td>
                             <td>
                                 <a href="{{ url('bike/' . 2 . '/edit') }}">edit</a>
